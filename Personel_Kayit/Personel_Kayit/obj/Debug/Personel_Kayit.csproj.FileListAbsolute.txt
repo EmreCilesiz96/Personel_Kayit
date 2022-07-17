@@ -1,0 +1,13 @@
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe.config
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.pdb
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.AssemblyReference.cache
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Properties.Resources.resources
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.GenerateResource.cache
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.exe
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.pdb
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Frmistatistik.resources
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmAnaForm.resources
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmGrafikler.resources
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmGiris.resources
